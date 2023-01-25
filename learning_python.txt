@@ -1,0 +1,3 @@
+In python you can read to a file
+In python you can write to a file
+In python you can append to a file
